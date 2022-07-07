@@ -65,3 +65,7 @@
 > Input: nums = [1,3,5,6], target = 7
 > Output: 4
 > ```
+
+## Day 2 Two Pointers 
+### 977 Squares of a Sorted Array
+### 189 Rotate Array
