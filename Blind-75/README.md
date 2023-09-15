@@ -4,30 +4,50 @@
 > The Blind 75 is a popular list of algorithm practice problems.
 
 ## Arrays & Hashing
-* Contains Duplicate    $\textcolor{#3fca7d}{\textsf{Easy}}$
-* Valid Anagram         $\textcolor{#3fca7d}{\textsf{Easy}}$
-* Two Sum               $\textcolor{#ffc926}{\textsf{Medium}}$
-* Group Anagrams
-* Top K Frequent Elements
-* Product of Array Except Self
-* Encode and Decode Strings	 $\textcolor{#ffc926}{\textsf{Medium}}$
-* Longest Consecutive Sequence $\textcolor{#ffc926}{\textsf{Medium}}$
+|Title|  Difficulty   |
+|:---:|:-------------:|
+|Contains Duplicate |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Valid Anagram         |$\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Two Sum               |$\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Group Anagrams        |$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Top K Frequent Elements |$\textcolor{#ffc926}{\textsf{Medium}}$|
+| Product of Array Except Self|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Encode and Decode Strings	 |$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Longest Consecutive Sequence |$\textcolor{#ffc926}{\textsf{Medium}}$|
 
 ## Two Pinters
-* Valid Palindrome
-* 3Sum
-* Container With Most Water
+|Title|  Difficulty   |
+|:---:|:-------------:|
+| Valid Palindrome |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+| 3Sum  |$\textcolor{#ffc926}{\textsf{Medium}}$|
+| Container With Most Water  |$\textcolor{#ffc926}{\textsf{Medium}}$|
 
 ## Sliding Window
-* Best Time to Buy And Sell Stock
-* Longest Substring Without Repeating Characters
-* Longest Repeating Character Replacement
-* Minimum Window Substring $\textcolor{#ff5967}{\textsf{Hard}}$
+|Title|  Difficulty   |
+|:---:|:-------------:|
+| Best Time to Buy And Sell Stock |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+| Longest Substring Without Repeating Characters |$\textcolor{#ffc926}{\textsf{Medium}}$|
+| Longest Repeating Character Replacement |$\textcolor{#ffc926}{\textsf{Medium}}$|
+| Minimum Window Substring | $\textcolor{#ff5967}{\textsf{Hard}}$|
 
 ## Stack
-* Valid Parentheses
+|Title|  Difficulty   |
+|:---:|:-------------:|
+| Valid Parentheses  |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
 
-## Stack
-Find Minimum In Rotated Sorted Array
-Search In Rotated Sorted Array
+## Binary Search
+|Title|  Difficulty   |
+|:---:|:-------------:|
+|Find Minimum In Rotated Sorted Array |$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Search In Rotated Sorted Array |$\textcolor{#ffc926}{\textsf{Medium}}$|
+
+## Linked List
+|Title|  Difficulty   |
+|:---:|:-------------:|
+| Reverse Linked List |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Merge Two Sorted Lists |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Reorder List |$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Remove Nth Node From End of List |$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Linked List Cycle |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Merge K Sorted Lists | $\textcolor{#ff5967}{\textsf{Hard}}$|
 
