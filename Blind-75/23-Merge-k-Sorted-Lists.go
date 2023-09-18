@@ -28,7 +28,7 @@ func mergeKLists(lists []*ListNode) *ListNode {
 				l2 = lists[i+1]
 			}
 
-			merged := mergeTwoLists(l1, l2)
+			merged := mergeTwoListsIntoOne(l1, l2)
 			procLsts = append(procLsts, merged)
 		}
 		lists = procLsts
@@ -39,7 +39,7 @@ func mergeKLists(lists []*ListNode) *ListNode {
 	return lists[0]
 }
 
-func mergeTwoLists(l1, l2 *ListNode) *ListNode {
+func mergeTwoListsIntoOne(l1, l2 *ListNode) *ListNode {
 	head := &ListNode{}
 	curr := head
 	// each linked-list is sorted in ascending order.
