@@ -51,3 +51,17 @@
 |Linked List Cycle |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
 |Merge K Sorted Lists | $\textcolor{#ff5967}{\textsf{Hard}}$|
 
+## Trees
+|Title|  Difficulty   |
+|:---:|:-------------:|
+|Invert Binary Tree |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Maximum Depth of Binary Tree |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Same Tree |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Subtree of Another Tree |  $\textcolor{#3fca7d}{\textsf{Easy}}$|
+|Lowest Common Ancestor of a Binary Search Tree|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Binary Tree Level Order Traversal|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Validate Binary Search Tree|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Kth Smallest Element In a Bst|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Construct Binary Tree From Preorder And Inorder Traversal|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Binary Tree Maximum Path Sum | $\textcolor{#ff5967}{\textsf{Hard}}$|
+|Serialize And Deserialize Binary Tree | $\textcolor{#ff5967}{\textsf{Hard}}$|
