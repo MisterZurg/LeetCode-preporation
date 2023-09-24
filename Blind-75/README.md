@@ -65,3 +65,10 @@
 |Construct Binary Tree From Preorder And Inorder Traversal|$\textcolor{#ffc926}{\textsf{Medium}}$|
 |Binary Tree Maximum Path Sum | $\textcolor{#ff5967}{\textsf{Hard}}$|
 |Serialize And Deserialize Binary Tree | $\textcolor{#ff5967}{\textsf{Hard}}$|
+
+## Tries
+|Title|  Difficulty   |
+|:---:|:-------------:|
+|Implement Trie Prefix Tree|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Design Add And Search Words Data Structure|$\textcolor{#ffc926}{\textsf{Medium}}$|
+|Word Search II|$\textcolor{#ff5967}{\textsf{Hard}}$|
