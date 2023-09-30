@@ -1,4 +1,4 @@
-package LeetCode_75
+package main
 
 func reverseVowels(s string) string {
 	// two pointers
